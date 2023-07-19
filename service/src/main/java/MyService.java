@@ -19,4 +19,5 @@ public class MyService {
     public MyEntity getMyEntity() {
         return db.getMyEntity();
     }
+
 }
